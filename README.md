@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExS1Te9780
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Python, Go, Sql
 - 💞️ I’m looking to collaborate on HZ
 - 📫 How to reach me Ne Nado
 - 😄 Pronouns: Abubu Bebe
